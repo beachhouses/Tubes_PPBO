@@ -11,6 +11,6 @@ Program ini menggunakan konsep OOP untuk manajemen menu, pemesanan, dan pembayar
 ## Cara Menjalankan
 1. Clone repo:
    ```bash
-   git clone https://github.com/username/MoodBites.git
+   https://github.com/beachhouses/Tubes_PPBO.git
 2. Compile : g++ main.cpp menu.cpp pesanan.cpp -o moodbites
 3. Jalankan : ./moodBites
