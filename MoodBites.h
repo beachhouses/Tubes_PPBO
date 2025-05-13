@@ -12,6 +12,10 @@ using namespace std;
 #define RESET   "\033[0m"
 #define MERAH   "\033[38;5;196m"
 #define KUNING  "\033[38;5;226m"
+#define PINK    "\033[38;5;199m"
+#define MAGENTA "\033[95m"
+#define HIJAU   "\033[32m"
+#define CYAN    "\033[36m"
 #define BOLD    "\033[1m"
 
 struct Item {
